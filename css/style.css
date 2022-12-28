@@ -297,25 +297,17 @@ body {
 .offer-image-label {
     position: absolute;
     bottom: 0;
-    right: 0;
     background-color: var(--projects-label);
     color: #fff;
-    width: 370px;
-    top: 224px;
+    width: 100%;
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.03em;
     text-align: center;
+    padding: 27px 0;
 }
 
-.offer-image-label-title {
-    padding-top: 27px;
-}
-
-.offer-image-label #p {
-    width: 370px;
-}
 .thumb {
     position: relative;
 }
